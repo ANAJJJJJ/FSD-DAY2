@@ -1,0 +1,11 @@
+#Anaj{
+    color: aqua;
+    text-align: left;
+}
+.BOX{
+    border: 3px solid black;
+    padding: 10px;
+    padding-left: 50px;
+    margin-left: 10%;
+    margin-right: 50%;
+}
